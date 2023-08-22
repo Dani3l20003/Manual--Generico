@@ -1,5 +1,7 @@
 package edu.upvictoria.fpoo;
 
+//Seguir el readme para convertir a genericos
+
 public class Contenedor {
 
 
@@ -14,6 +16,4 @@ public class Contenedor {
     public void setContenido {
 
     }
-
-
 }
